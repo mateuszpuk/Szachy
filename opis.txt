@@ -1,0 +1,7 @@
+Na połowie ekranu znajduje się szachownica stworzona w Jetpack Compose, umożliwiająca pełnoprawną grę w szachy z logiką sprawdzania legalnych ruchów, roszad i mata.
+Na drugiej połowie ekranu (lub w orientacji poziomej – obok szachownicy) odtwarzany jest filmik z YouTube, który użytkownik może zmienić na jeden z predefiniowanych 
+– np. parkour z Minecrafta, wspomagający koncentrację.Można zakręcić ruletką, dzięki której można zyskać dodatkowy lub stracić następny ruch
+Można włączyć historię gier, jeśli jest się zalogowanym to historia też będzie pobrana z firebase'a a nie tylko lokalnej bazy danych. 
+Logowanie odbywa się za pomocą konta Google (Google Sign-In)
+Przy niskim poziomie baterii 
+Filmik nagrałem na swoim telefonie
